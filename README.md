@@ -2,7 +2,7 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jamesmcroft/gpt4o-reasoning-acting-demo?quickstart=1)
 
-This repository contains a simple demonstration of using OpenAI's GPT-4o model to reason and act, following the principals of the [ReAct pattern](https://arxiv.org/pdf/2210.03629).
+This repository contains a simple demonstration of using OpenAI's GPT-4o model to reason and act, following the principles of the [ReAct pattern](https://arxiv.org/pdf/2210.03629).
 
 > [!IMPORTANT]
 > This repository is designed simply as a demonstration of the technique, and is not a production-ready implementation.
