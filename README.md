@@ -1,5 +1,8 @@
 # Azure OpenAI GPT-4o Reasoning+Acting Demo
 
+> [!IMPORTANT]
+> This sample will no longer receive updated and has been archived, for reference only.
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jamesmcroft/gpt4o-reasoning-acting-demo?quickstart=1)
 
 This repository contains a simple demonstration of using OpenAI's GPT-4o model to reason and act, following the principles of the [ReAct pattern](https://arxiv.org/pdf/2210.03629).
